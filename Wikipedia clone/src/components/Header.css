@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.header p {
+    margin: 0;
+    font-size: 1.2em;
+    color: #777;
+}

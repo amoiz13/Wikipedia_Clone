@@ -1,0 +1,25 @@
+/* src/components/LanguageLinks.css */
+.language-links {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.language-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.language-links li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.language-links a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.language-links a:hover {
+    text-decoration: underline;
+}
